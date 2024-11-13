@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am Levis Kitonge, currently engaged in a groundbreaking space-borne AI project aimed at deploying artificial intelligence in space applications. This project utilizes complex algorithms to address critical challenges in space-related domains, including real-time vessel monitoring, land use and land cover mapping, and advanced image preprocessing. By harnessing the power of AI, we are pioneering solutions that bring new levels of insight and accuracy to geospatial and environmental analysis from space.
+I am currently engaged in a groundbreaking space-borne AI project aimed at deploying artificial intelligence in space applications. This project utilizes complex algorithms to address critical challenges in space-related domains, including real-time vessel monitoring, land use and land cover mapping, and advanced image preprocessing. By harnessing the power of AI, we are pioneering solutions that bring new levels of insight and accuracy to geospatial and environmental analysis from space.
 
 <!--
 **Levice085/Levice085** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
